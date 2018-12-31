@@ -1,0 +1,509 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+    border: 0;
+        }
+        
+
+div#header {
+	width: 1086px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+body {
+   
+    background-image: url(img/BG_header.jpg);
+    max-width: 100%;
+    background-repeat: no-repeat;
+   background-size: 100%, 769px;
+   background-attachment: scroll;
+  } 
+
+    
+
+nav{
+	width: 1086px;
+	height: 102px;
+	
+}
+
+#menu  {
+    font-family: 'Roboto', sans-serif ;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #ffffff;
+    display: inline;
+    float: right;
+    margin-top: 47px;
+    
+    
+ }
+ #menu a {
+    text-decoration: none;
+    color: #FFFFFF
+ }
+ #menu li {
+    
+    display: inline;
+    padding-right: 22px;
+   
+} 
+
+#menu a:hover {
+    color: #56B7EB;
+    
+} 
+
+#headerinfo {
+    width: 1086px;
+	height: 669px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.logoheaderw {
+    margin-top: 35px;
+    position: absolute;
+    float: left;
+}
+.imgheader {
+    width: 1366px;
+    height: 769px;
+    display: block;
+}
+
+header img {
+    margin-top: 238px;
+}
+
+
+section#servicios{
+	width: 1086px;
+	height: 700px;
+    background-color:#FFFFFF;
+    padding-top: 57px;
+	margin-left: auto;
+	margin-right: auto;
+    
+}
+
+.titulos {
+    font-size: 47px;
+    text-align: center;
+    font-weight: bold;
+    color: #5D5D5D;
+    font-family: 'Open Sans', sans-serif ;
+
+}
+#imgservices {
+    display: inline;
+    float: left;
+    width: 551px;
+    height: 422px;
+    padding-top: 30px;
+       
+}
+
+#servicesbox {
+    width: 1086px;
+    height: 400px;
+}
+#textservices {
+    display: inline;
+    color: #5D5D5D;
+
+}
+#textservices h3 {
+    font-family: 'Open Sans', sans-serif ;
+    font-size: 19px;
+    font-weight: bold;
+}
+#textservices p {
+    font-family: 'Roboto', sans-serif ;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.serviciosinfo {
+    text-align: center;
+    margin-bottom: 80px;
+    color: #5D5D5D;
+}
+.serviciosinfo p {
+    font-family: 'Roboto', sans-serif ;
+    color: #5D5D5D;
+    font-weight: lighter;
+}
+.circleserv {
+    display: block;
+    float: left;
+    margin-right: 30px;
+}
+.bottomservices {
+    margin-bottom: 20px;
+}
+
+#backcloud {
+    width: 1368px;
+    height: 874px;
+    background-image: url(img/background_CK.png);
+    max-width: 100%;
+    background-repeat: no-repeat;
+   background-size: 1368px, 100%;
+   background-attachment: scroll;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#cloudbox {
+    width: 1086px;
+    height: 874px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#cloudinfo {
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif ;
+    padding-top: 80px;
+}
+
+#info1 {
+    
+    margin-top: 81px;
+    padding-left: 33px;
+    display: block;
+    float: left;
+    position: absolute;
+}
+
+
+#info1 img {
+    float: left;
+    display: block;
+    position: absolute;
+}
+
+.nube {
+    margin-top: 88px;
+}
+
+
+#info2 img {
+    float: left;
+    
+}
+
+.satisfaccion {
+    margin-top: 88px;
+}
+
+
+#pos img {
+    float: left;
+    display: inline;
+    margin-top: 81px;
+    position: absolute;
+    margin-left: 300px;
+
+}
+#info2 {
+    margin-top: 81px;  
+    margin-left: 750px;  
+}
+.txtcloud {
+    padding-left: 90px;
+}
+
+.txtcloud h3 {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif ;
+}
+
+.txtcloud p {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif ;
+}
+
+
+#sectionproductos {
+    width: 1086px;
+    height: 778px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+#productos {
+    width: 1086px;
+    height: 549px;
+    margin-top: 50px;
+}
+
+
+.productinfo {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #5d5d5d;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif ;
+}
+
+
+.productosbox img {
+    display: block;
+    float: left;
+}
+
+.product {
+    margin-left: 30px;
+}
+
+.productosbox2 img {
+    margin-top: 35px;
+    display: block;
+    float: left;
+    
+}
+
+#sectionproductos {
+    height: 827px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+.equipoinfo {
+    text-align: center;
+    margin-left: auto;
+	margin-right: auto;
+}
+.equipobox{
+    margin-left: 385px;
+    display: flex;
+}
+.equipobox img {
+    margin-top: 50px;
+    display: flex;
+    float: left;
+    box-shadow: 3px, 3px, 5px, #5D5D5D;
+    align-content: center;
+}
+#sectionequipo {
+    height: 720px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+.equipo {
+    margin-left: 30px;
+
+}
+
+#sectionclientes {
+    height: 329px;
+    margin-left: auto;
+	margin-right: auto;
+
+}
+#clientesbox {
+    background-image: url(img/background_clientes.jpg);
+    height: 329px;
+    margin-left: auto;
+	margin-right: auto;
+    
+}
+
+#clientesinfo {
+    padding-top: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 200px;
+    margin-bottom: 50px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+.logosbox {
+    margin-left: 390px;
+	
+}
+.logosbox img{
+    margin-left: 76px;
+}
+
+#sectionubicacion {
+    height: 601px;
+    margin-left: auto;
+	margin-right: auto;
+}
+#ubicacioninfo {
+    padding-top: 56px;
+    text-align: center;
+    color:#5D5D5D;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#sectionubicacion p {
+    padding-top: 28px;
+    color:#5D5D5D;
+    font-size: 22px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 18px;
+    text-align: center;
+}
+#mapa {
+    width: 900px;
+    height: 223px;
+    align-content: center;
+    margin-left: 480px;
+
+}
+
+#textubicacion {
+    display: inline;
+    color: #5D5D5D;
+    width: 900px;
+    height: 54px;
+    margin-top: 25px;
+}
+
+.ubicacionbox {
+    width: 279px;
+    height: 54px;
+    float: left;
+    margin-right: 60px;
+    display: inline;
+    margin-top: 25px;
+}
+.ubicacionbox1 {
+    width: 190px;
+    height: 54px;
+    float: left;
+    margin-right: 60px;
+    display: inline;
+    margin-top: 25px;
+    margin-left: 500px;
+}
+.imgubi img{
+    display: block;
+    float: left;
+    margin-right: 14px;
+    display: inline;
+}
+
+.pbox{
+    height: 54px;
+    text-align: left;
+    display: inline;
+    float: right;
+    font-size: 15px;
+    font-family: 'roboto', sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+} 
+
+#textubicacion p {
+    align-content: center;
+    color:#5D5D5D;
+    font-size:15px;
+    font-weight: 100;
+    font-style: italic;
+    font-family: 'roboto', sans-serif;
+    display: inline;
+    margin-left: 0px;
+
+}
+#sectionnosotros {
+    height: 494px;
+    background-color: #F2F5F6;
+    max-width: 100%;
+    margin-left: auto;
+	margin-right: auto;
+}
+.sectredes {
+    height: 38px;
+   margin-left: 160px;
+    align-content: center;
+    margin-top: 46px;
+}
+.sectlogo {
+    width: 496px;
+    height: 494px;
+    margin-left: 63px;
+    margin-right: 63px;
+   float: left;
+}
+
+#logodigi {
+    margin-top: 151px;
+    margin-left: 30px;
+}
+.sectredes img {
+    float: left;
+    padding-left: 18px;
+    
+}
+.faceredes:hover {
+    background-image: url(img/Iconos/FaceWhite_header.svg); 
+}
+.formulario {
+    width: 422px;
+    height: 494px;
+    background-color: #5D5D5D;
+    display: block;
+    float: left;
+}
+footer h2 {
+    font-size: 12px;
+    font-family:'Roboto', sans-serif;
+    font-weight: 100;
+    color: #ffffff;
+}
+  
+/*--------------------*/
+
+.productosbox {
+    display: flex;
+}
+.product {
+    margin-left: 30px;
+}
+#pro1 {
+    width: 342px;
+    height: 257px;
+    background-image: url(img/Productos/cloud.jpg);
+}
+div#cloud {
+    width: 342px;
+    height: 257px;
+    background-image: url(img/Productos/cloud_hover.jpg);
+    visibility: hidden;
+}
+div#pro1:hover div#cloud {
+    visibility: visible;
+} 
+#pro2 {
+    width: 342px;
+    height: 257px;
+    background-image: url(img/Productos/software.jpg);
+}
+#pro3 {
+    width: 342px;
+    height: 257px;
+    background-image: url(img/Productos/internet.jpg);
+}
